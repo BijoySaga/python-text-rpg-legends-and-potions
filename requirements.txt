@@ -1,0 +1,6 @@
+# requirements.txt for Legends & Potions
+# No external dependencies required for the core game.
+# If you add third-party libraries (e.g., colorama for colored text), list them below:
+
+# Example (uncomment if you use it):
+# colorama
